@@ -53,4 +53,4 @@
 
 ![AI生成视频工具](images/AI生成视频工具1.png)
 
-![AI生成视频工具](images/AI生成视频工具2.png)
+![AI生成视频工具](images/AI生成视频工具1-2.png)
